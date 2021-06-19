@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey 👋##
+
+Im Yuutokata but you can call me Yuuto too. I love anime
+and programming.
+
+##Social media
+
+
+##Api's##
+
+Discord.py
+
+##Programmier Sprachen die ich kann/lerne
+
+python kotlin
 
 <!--
 **Yuutokata/Yuutokata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
