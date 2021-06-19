@@ -11,6 +11,8 @@ https://yuuto.de
 
 https://yuuto.de/twitter
 
+https://yuuto.de/spotify
+
 https://yuuto.de/github
 
 https://yuuto.de/twitch
