@@ -3,14 +3,14 @@
 Im Yuutokata but you can call me Yuuto too. I love anime
 and programming.
 
-###Social media
+### Social media
 
 
-###Api's
+### Api's
 
 Discord.py
 
-###Programmier Sprachen die ich kann/lerne
+### Programmier Sprachen die ich kann/lerne
 
 python kotlin
 
