@@ -1,4 +1,4 @@
-### Hey 👋##
+### Hey 👋
 
 Im Yuutokata but you can call me Yuuto too. I love anime
 and programming.
@@ -6,7 +6,7 @@ and programming.
 ##Social media
 
 
-##Api's##
+##Api's
 
 Discord.py
 
