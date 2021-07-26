@@ -23,9 +23,9 @@ https://yuuto.de/discordacc
 
 Discord.py
 
-### Programmier Sprachen die ich kann/lerne
+### Languages
 
-python kotlin
+python
 
 <!--
 **Yuutokata/Yuutokata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
