@@ -1,7 +1,4 @@
-### Hey 👋
 
-Im Yuutokata but you can call me Yuuto too. I love anime
-and programming.
 
 ### My Website
 
