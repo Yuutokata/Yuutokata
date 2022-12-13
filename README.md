@@ -3,8 +3,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuutokata&label=Profile%20views&color=0e75b6&style=flat" alt="yuutokata" /></p> <p align="´middle">
-<a href="https://twitter.com/yuutokata" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yuutokata" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuutokata&label=Profile%20views&color=0e75b6&style=flat" alt="yuutokata" /></p> 
+<p align="middle"> <a href="https://twitter.com/yuutokata" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yuutokata" /></a>
 <a href="https://discord.com/users/437669166216904715" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="yuutokata" /></a>
 <a href="https://www.reddit.com/user/Yuutoo_" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="yuutokata" /></a>
 <a href="https://www.youtube.com/channel/UC3rffbeJpGYNd_ge8kvJ6FA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="yuutokata" /></a>
