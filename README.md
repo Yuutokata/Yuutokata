@@ -2,42 +2,31 @@
 
 <h3><code>yuutokata@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td align="center" valign="top" width="35%">
-<img src="./avatar-ascii.svg" width="260" alt="ASCII-art rendering of Leo Wagner's profile avatar" />
-</td>
-<td valign="top" width="65%">
+<img src="./avatar-ascii.svg" width="330" alt="ASCII-art rendering of Leo Wagner's profile avatar" />
+<img src="./info-card.svg" width="530" alt="Neofetch-style info card showing Leo Wagner's name, role, and stack" />
 
-**Leo Wagner** — Backend Developer & System Administrator
 <br>
-Mainz, Germany
+
+**Backend Developer & System Administrator** · Mainz, Germany
+
+<br>
 
 I build backend services in Python and Kotlin, and run the infrastructure they live on — Docker, Linux, and a self-hosted homelab. Currently in my final year of German upper-secondary school (Abitur), working through coursework alongside independent projects centered on APIs, databases, and the systems that keep them running.
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
+</div>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
-<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=for-the-badge&logo=kotlin&logoColor=white)
-<br>
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white)
-<br>
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-<td align="center" valign="top">
-<img src="./info-card.svg" width="460" alt="Neofetch-style info card showing Leo Wagner's name, role, and stack" />
-</td>
-</tr>
-</table>
 
 </div>
 
