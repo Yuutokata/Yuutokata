@@ -50,9 +50,6 @@ A growing stack of Dockerized services runs behind a self-configured reverse pro
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap and statistics dashboard for yuutokata" />
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com/?user=yuutokata&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590" height="165" alt="yuutokata's GitHub contribution streak" />
-
 </div>
 
 <br>
